@@ -1,0 +1,26 @@
+{
+  "name": "communication_historymixinlib",
+  "version": "1.0.0",
+  "description": "AllexJS lib with common functionality for manipulating the history",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/communication-libs/historymixin.git"
+  },
+  "keywords": [
+    "ecosystem:AllexJS",
+    "communication",
+    "history",
+    "mixin",
+    "lib"
+  ],
+  "author": "Andrija Petrovic <andrija.hers@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/communication-libs/historymixin/issues"
+  },
+  "homepage": "https://github.com/communication-libs/historymixin#readme"
+}
